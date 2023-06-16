@@ -2,7 +2,8 @@
 <h3 align="center">Desarrollador Frontend 👨🏻‍💻</h3>
 
 <h3 align="left">Te cuento un poco sobre mi</h3>
-<p align="left"> Desde 2020 me empecé a relacionar con el área del desarrollo web en proyectos personales y de conocidos, así como a la educación. Imparto asesorías en materias relacionadas con las matemáticas a nivel medio, medio superior y superior. Este año 2023 retomé de nuevo algunos proyectos con el fin de dedicarme de manera completa al desarrollo Web. Disfruto llevar a cabo la maquetación e interactividad de interfaces web, así como la optimización, para el buen posicionamiento y el rendimiento de carga de sitios y aplicaciones web.
+<p align="left">
+Soy especialista en crear páginas atractivas y funcionales. Cuento con más de 5 años de experiencia aplicando tecnologías como HTML, CSS, JavaScript, Tailwind, TypeScript, y React, ofrezco soluciones personalizadas que cumplen con los más altos estandares. Combino diseño cautivador y funcionalidad sólida, valorando la calidad pero tambien la rapidez. Me mantengo actualizado con las nuevas caracteristicas de los lenguajes, por lo que te ofrezco soluciones innovadoras y efectivas. ¡Trabajemos juntos para crear una página web impresionante que refleje tu visión y objetivos!
 </p>
 
 <h3 align="left">Lenguajes y Herramientas que domino:</h3>
