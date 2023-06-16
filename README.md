@@ -2,12 +2,12 @@
 <h3 align="center">Desarrollador Frontend 👨🏻‍💻</h3>
 
 <h3 align="left">Te cuento un poco sobre mi</h3>
-<p align="left">
+<p align="center">
 Soy especialista en crear páginas atractivas y funcionales. Cuento con más de 5 años de experiencia aplicando tecnologías como HTML, CSS, JavaScript, Tailwind, TypeScript, y React, ofrezco soluciones personalizadas que cumplen con los más altos estandares. Combino diseño cautivador y funcionalidad sólida, valorando la calidad pero tambien la rapidez. Me mantengo actualizado con las nuevas caracteristicas de los lenguajes, por lo que te ofrezco soluciones innovadoras y efectivas. ¡Trabajemos juntos para crear una página web impresionante que refleje tu visión y objetivos!
 </p>
 
 <h3 align="left">Lenguajes y Herramientas que domino:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -24,10 +24,10 @@ Soy especialista en crear páginas atractivas y funcionales. Cuento con más de 
 
 
 <h3 align="left">Proyectos principales:</h3>
-<p align="left"> <a href="https://juanitho007.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio1.png" alt="portafolio” width=“300” height=“200”/> </a> 
-<a href="https://juanitho001.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio1.png" alt="portafolio” width=“300” height=“200”/> </a> 
-<a href="https://juanitho006.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio3.png" alt=“ahorcado” width=“300” height=“200”/></a> 
-<a href="https://juanitho002.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio4.png" alt=“weatherApp” width=“300” height=“200”/></a> 
-<a href="https://juanitho003.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio6.png" alt=“rickAndMorty api” width=“300” height=“200”/></a> 
-<a href="https://juanitho005.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio7.png" alt=“pokedex” width=“300” height=“200”/></a> 
+<p align="center"> <a href="https://juanitho007.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio1.png" alt="portafolio" width="300" height="200"/> </a> 
+<a href="https://juanitho001.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio2.png" alt="frase" width="300" height="200"/> </a> 
+<a href="https://juanitho006.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio3.png" alt="ahorcado" width="300" height="200"/></a> 
+<a href="https://juanitho002.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio4.png" alt="weatherApp" width="300" height="200"/></a> 
+<a href="https://juanitho003.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio6.png" alt="rickAndMortyapi" width="300" height="200"/></a> 
+<a href="https://juanitho005.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio7.png" alt="pokedex" width="300" height="200"/></a> 
  </p>
