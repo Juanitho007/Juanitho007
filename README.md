@@ -25,7 +25,7 @@ Soy especialista en crear páginas atractivas y funcionales. Cuento con más de 
 
 <h3 align="left">Proyectos principales:</h3>
 <p align="left"> <a href="https://juanitho007.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio1.png" alt="portafolio” width=“300” height=“200”/> </a> 
-<a href="https://juanitho007.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio2.png" alt=“frasesAleatorias” width=“300” height=“200”/></a> 
+<a href="https://juanitho001.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio1.png" alt="portafolio” width=“300” height=“200”/> </a> 
 <a href="https://juanitho006.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio3.png" alt=“ahorcado” width=“300” height=“200”/></a> 
 <a href="https://juanitho002.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio4.png" alt=“weatherApp” width=“300” height=“200”/></a> 
 <a href="https://juanitho003.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://juanitho007.netlify.app/assets/img/portafolio6.png" alt=“rickAndMorty api” width=“300” height=“200”/></a> 
